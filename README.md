@@ -4,6 +4,8 @@
 
 [ns.com/dashboard](https://ns.com/dashboard)
 
+[List your Startup Society](https://ns.com/list)
+
 ![image](https://github.com/user-attachments/assets/27cd96fc-1ee5-4aa5-b192-29dd7bb616b8)
 
 ## Contributing
