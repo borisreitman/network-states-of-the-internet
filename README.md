@@ -1,6 +1,6 @@
 # The Network States of the Internet
 
-**The Network State Dashboard** is an open-source database of startup societies, charter cities, and other emerging community experiments.
+**The Network State Dashboard** is an open-source database of startup societies.
 
 [ns.com/dashboard](https://ns.com/dashboard)
 
