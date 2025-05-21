@@ -2,6 +2,10 @@
 
 **The Network State Dashboard** is an open-source database of startup societies, charter cities, and other emerging community experiments.
 
+[ns.com/dashboard](https://ns.com/dashboard)
+
+![image](https://github.com/user-attachments/assets/27cd96fc-1ee5-4aa5-b192-29dd7bb616b8)
+
 ## Contributing
 
 Have a correction or a new society to add?  
